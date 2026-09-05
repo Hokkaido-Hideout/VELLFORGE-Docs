@@ -1,4 +1,4 @@
-# VellForge LAB Texture Generation Guide
+# VELLFORGE - Texture Generation Guide
 
 ![Generator Interface](VFG.jpg)
 
